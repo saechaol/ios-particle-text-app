@@ -11,7 +11,7 @@ import SwiftUI
 struct ParticleTextApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ParticleView()
         }
     }
 }
